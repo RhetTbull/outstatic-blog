@@ -12,6 +12,7 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 ## Hello!
 
-# I'm Andre, nice to meet you.
+# I'm Rhet, nice to meet you.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+I am a hobbyist programmer who builds open source projects in my spare time.
+
